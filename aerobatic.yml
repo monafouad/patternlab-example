@@ -1,0 +1,4 @@
+id: 316cbd1a-149e-475d-8b44-58d60ceca997
+deploy:
+  ignore: []
+  directory: ./public

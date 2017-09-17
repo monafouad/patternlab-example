@@ -1,0 +1,11 @@
+{% extends "templates-span12" %}
+
+{% block breadcrumb %}
+	{% include "organisms-sub-nav" %}		 	
+{% endblock %}
+{% block main %}
+{% for card in cards %}
+	{% include "molecules-card" %}	
+{% endfor %}
+
+{% endblock %}

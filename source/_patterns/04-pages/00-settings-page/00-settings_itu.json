@@ -1,0 +1,101 @@
+{
+  "toggle":{
+	  "label":"Desactivar"
+  },
+  "panel":{
+	 "title":"Actualización automatica de CV's en base de candidatos",
+	 "button":"Ver resumen",
+	 "subtitle":"Usa esta plantilla para invitar a tus candidatos situados en tu base de datos. Así mantendrás tu base de candidatos lo más actualizada posible."
+ },
+   "panelBlock":[
+        {
+            "blockClass":"span6 tc_panel__col",
+            "content":"Tus candidatos recibirán estas notificaciones si hace más de cuatro meses que no actualizan sus datos en Talent Clue.",
+            "col1":"span1",
+            "col2":"span11 tc_panel__item",
+            "icon":"icon-refresh tc_icon-md"
+        },
+        {
+            "blockClass":"span6 tc_panel__col",
+            "content":"Si el candidato no actualiza su CV cuando recibe una notificación, el sistema envía dos mensajes recordatorios con el fin de que el candidato actualice su perfil.",
+            "col1":"span1",
+            "col2":"span11 tc_panel__item",
+            "icon":"icon-bell tc_icon-md"
+        },
+         {
+            "blockClass":"span6 tc_panel__col",
+            "content":"La hora de envío de los mensajes comprende desde las 6 de la mañana hasta las 8 de la mañana.",
+            "col1":"span1",
+            "col2":"span11 tc_panel__item",
+            "icon":"icon-time tc_icon-md"
+        },
+         {
+            "blockClass":"span6 tc_panel__col",
+            "content":"Estos mensajes no se envíarán a aquellos candidatos que rechacen la LOPD previamente.",
+            "col1":"span1",
+            "col2":"span11 tc_panel__item",
+            "icon":"icon-exclamation-sign tc_icon-md"
+        }
+    ],
+    "table": [
+        {
+            "class":"",
+            "colOne" : "Walter Chambers Wilkings",
+            "colTwo" : "Everardoport",
+            "colThree" : "jose.wilderman@yahoo.com",
+            "colFour" : "icon-trash"
+        },     
+        {
+            "class":"",
+            "colOne" : "Elizabeth Wilkins",
+            "colTwo" : "Stephonborough",
+            "colThree" : "rene.schoen@nicklaus.org",
+            "colFour" : "icon-trash"
+        },
+        {
+            "class":"",
+            "colOne" : "Randy Webb",
+            "colTwo" : "Klingbury",
+            "colThree" :"eloise.wintheiser@yahoo.com",
+            "colFour" : "icon-trash"
+        } 
+
+],
+    "tableHeaders": {    
+        "title1":"Title 1",
+        "title2":"Title 2",
+        "title3":"Title 3",
+        "title4":""
+    },
+  "checkboxset":{
+        "title":"Desmarca la casilla si no quieres que tus contratados reciban esta notificación",
+        "content":"Contratados"
+    },
+"search":{
+        "title":"Excluye manualmente a candidatos de estas notificaciones"
+ },
+ "label":{
+        "content":"Candidatos"
+ },
+ "span":{
+        "content":"*Para cambiar este correo contacta con soporte y solicítalo."
+ },
+ "headings":{
+        "h3":"El remitente de tus comunicaciones a usuario es el siguiente"
+ },
+"buttons":{
+        "primaryButton": "Primary button",
+        "primaryButtonIcon": "Primary with arrow",
+        "primaryButtonClass":"tc_btn__primary",
+        "secondaryButton": "Secondary button",
+        "secondaryButtonClass": "tc_btn__secondary",
+        "disabledButton": "Incluir",
+        "disabledButtonClass": "tc_btn__disabled",
+        "linkButton": "recursoshumanos@tuempresa.com",
+        "linkButtonIcon": "icon-trash tc_icon-xs",
+        "linkButtonClass":"tc_btn__link",
+        "linkButtonIcon": "icon-trash tc_icon-xs",
+        "linkButtonIconClass":"tc_btn__link--icon"
+    }
+
+}

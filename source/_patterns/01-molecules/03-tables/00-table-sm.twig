@@ -1,0 +1,18 @@
+<div class="row-fluid tc_row__margin">
+	<table class="table tc_table">
+		<tr>
+			<td class="tc_table__header tc_indent">{{ tableHeaders.title1 }}</td>
+			<td class="tc_table__header">{{ tableHeaders.title2 }}</td>
+			<td class="tc_table__header">{{ tableHeaders.title3 }}</td>
+			<td class="tc_table__header"></td>
+		</tr>
+		{% for row in table %}
+		<tr>
+			<td class="tc_table__cell--first tc_indent">{{ row.colOne }}</td>
+			<td class="tc_table__cell">{{ row.colTwo }}</td>
+			<td class="tc_table__cell">{{ row.colThree }}</td>
+			<td class="tc_table__cell--last"><i class="{{ row.colFour }}"></i></td>
+		</tr>
+		{% endfor %}
+	</table>
+</div>

@@ -1,0 +1,32 @@
+<form class="tc_form">
+	<fieldset class="tc_fieldset">
+			{% include "atoms-legend" %}
+		<div class="control-group">
+			{% include "atoms-secondary-button" %}
+		</div>
+		<div class="control-group">
+			{% include "atoms-link-button-with-icon" %}
+		</div>
+		<h3 class="tc_h3--underline">{{ forms.title}}</h3>
+		<div class="{{forms.groupClass}}">
+			<label class="tc_label">{{ forms.label2 }}</label>
+			{% include "atoms-input" %}
+		</div>
+		<div class="{{forms.groupClass}}">
+			<label class="tc_label">{{ forms.label3 }}</label>
+			{% include "atoms-input" %}
+		</div>
+		<div class="{{forms.groupClass}}">
+			<label class="tc_label">{{ forms.label4 }}</label>
+			{% include "atoms-input" %}
+		</div>
+		<div class="{{forms.groupClass}}">
+			<label class="tc_label">{{ forms.label5 }}</label>
+			{% include "atoms-input" %}
+		</div>
+		<div class="{{forms.groupClass}}">
+			<label class="tc_label">{{ forms.label6 }}</label>
+			{% include "atoms-input" %}
+		</div>
+	</fieldset>
+</form>

@@ -1,0 +1,111 @@
+{
+  "cards":  [
+        {
+            "class":"tc_card span6",
+            "title" : "Etiquetas",
+            "bgcolor":"tc_card__blue",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Gestionar",
+            "content" : "Crea tus propias etiquetas para organizar y filtrar candidatos, posiciones y portales. Tambien para indicar motivos de descarte de candidatos."
+        },
+         {
+            "class":"tc_card span6 pull-right",
+            "title" : "Notas de entrevista",
+            "bgcolor":"tc_card__green",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Gestionar",
+            "content" : "Crea tus propias plantillas para estandarizar las notas de entrevistas."
+        },
+         {
+            "class":"tc_card span6",
+            "title" : "Panel de empleo en mi Web",
+            "bgcolor":"tc_card__orange",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Configurar",
+            "content" : "Crea facilmente un panel de empleo para tu Website e Intranet."
+        },
+         {
+            "class":"tc_card span6 pull-right",
+            "title" : "Canales de Publicacion",
+            "bgcolor":"tc_card__blue",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Gestionar",
+            "content" : "Configura tus Canales de Difusion Personalizados, y tus Credenciales Privadas para automatizar la interaccion con los Canales de Publicacion que las requieren."
+        },
+         {
+            "class":"tc_card span6",
+            "title" : "LOPD y T&C",
+            "bgcolor":"tc_card__purple",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Configurar",
+            "content" : "Configura tus propios Terminos y Condiciones y asegurate de que cumples con la LOPD."
+        },
+         {
+            "class":"tc_card span6 pull-right",
+            "title" : "Buzon de Candidatos",
+            "bgcolor":"tc_card__lime",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Configurar",
+            "content" : "Personaliza la cuenta de correo que te proporcionamos para subir los candidatos."
+        },
+         {
+            "class":"tc_card span6",
+            "title" : "Plantillas de Mensajes a Candidatos",
+            "bgcolor":"tc_card__red",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Configurar",
+            "content" : "Personaliza los mails que quieres enviar a los candidatos."
+        },
+         {
+            "class":"tc_card span6 pull-right",
+            "title" : "Visualizacion de Posiciones",
+            "bgcolor":"tc_card__black",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Configurar",
+            "content" : "Configura que datos de tus posiciones se mostraran en las vista publica a los candidatos."
+        },
+           {
+            "class":"tc_card span6",
+            "title" : "Bajar Base de Datos",
+            "bgcolor":"tc_card__charcoal",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Acceder",
+            "content" : "En cualquier momento puedes bajar todos los CVs, datos de vacantes y candidatos almacenados en tu Base de Datos."
+        },
+         {
+            "class":"tc_card span6 pull-right",
+            "title" : "Reclutamiento Movil",
+            "bgcolor":"tc_card__green--dark",
+            "img":"../../images/reclutamiento_icon.png",
+            "imgClass":"tc_card__img",
+            "buttonText":"Acceder",
+            "content" : "Descubre los beneficios de reclutamiento movil Talent Clue."
+        }
+        
+     ],
+    "breadcrumbNav":[
+        {
+            "class":"tc_languageNav__link",
+            "content":"Inicio"
+        },
+         {
+            "slash":"/"
+        },
+        {
+            "class":"tc_breadcrumbNav__current",
+            "content":"Configuracion"
+        }
+    ],
+    "buttons":{
+         "linkButton": "Inicio"
+    }
+}

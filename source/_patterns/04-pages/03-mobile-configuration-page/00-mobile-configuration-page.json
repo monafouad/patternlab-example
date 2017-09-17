@@ -1,0 +1,72 @@
+{
+	"panel": {
+		"title": "Publicacion automatica en multi poster",
+		"class": "tc_panel span12 tc_panel__bg",
+		"button": "Lorem",
+		"subtitle": "B4 Work este texto debe ayudar al usuario a intentar saber que puede hacer desde aqui. Sera un texto que funcionara por ahora. Es la herramienta que todo reclutador necesita para catapultar su reclutamiento Mobile.",
+		"subtitleClass":"tc_panel__title--sub",
+		"buttonClass":"hide",
+        "imgContainer":"span3 pull-right tc_panel__corner",
+        "googleIconClass":"pull-right tc_panel__imgButton--top",
+        "googleIcon":"../../images/google_play.png",
+        "appIconClass":"pull-right",
+        "appIcon":"../../images/app_store.png",
+        "fixedInmage":"../../images/iphone_b4work_mockup.png",
+        "fixedInmageClass":"tc_img-responsive"
+	},
+	"panelBlock": [
+		{
+			"blockClass": "span6",
+			"content": "Tenvía tus posiciones automáticamente a B4work para que tus candidatos puedan aplicar fácilmente vía móvil",
+			"col1": "tc_panel__icons--auto",
+			"col2": "span10 tc_panel__item",
+			"icon": "icon-check tc_icon-md"
+		},
+		{
+			"blockClass": "span6 tc_panel__item--padding",
+			"content": "Selecciona tus preferencias de publicación y notificaciones",
+			"col1": "tc_panel__icons--auto",
+			"col2": "span10 tc_panel__item",
+			"icon": "icon-bell-alt tc_icon-md"
+		}
+	],
+	"toggle": {
+        "label": "Deshabilitado",
+        "page-label": "default"
+    },
+     "hr": {
+        "class": "tc_seperator"
+    },
+    "images": {
+        "src": "",
+        "class":" img-responsive"
+    },
+    "buttons":{
+    	"linkButtonIconClassIcon":"icon-plus-sign-alt",
+    	 "linkButtonIcon":"Mas informacion"
+    },
+    "headings": {
+        "h2Class": "tc_h2--black",
+        "h2Title": "Configuracion de Reclutamiento Movil"
+    },
+     "breadcrumbNav": [
+        {
+            "class": "tc_languageNav__link",
+            "content": "Inicio"
+        },
+        {
+            "slash": "/"
+        },
+        {
+            "class": "tc_languageNav__link",
+            "content": "Configuracion"
+        },
+         {
+            "slash": "/"
+        },
+        {
+            "class": "tc_breadcrumbNav__current",
+            "content": "Reclutamiento Movil"
+        }
+    ]
+}

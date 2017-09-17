@@ -1,0 +1,6 @@
+<div class="span7">
+	{% for item in breadcrumbNav %}
+		<a href="#" class="{{item.class}}">{{item.content}}</a>
+		<span>{{item.slash}}</span>
+	{% endfor %}
+</div>

@@ -1,0 +1,94 @@
+a:hover, a:focus {
+    text-decoration: none;
+}
+
+
+/* Placeholder Inputs*/
+
+.tc_fieldset input:-webkit-input-placeholder {
+    /* Chrome */
+    color: #0797C1;
+}
+
+.tc_fieldset input:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #0797C1;
+}
+
+.tc_fieldset input:-moz-placeholder {
+    /* Firefox 19+ */
+    color: #0797C1;
+    opacity: 1;
+}
+
+
+/* Modal */
+
+.tc_modal .modal-backdrop, .tc_modal .modal-backdrop.fade.in {
+    opacity: 0.5;
+}
+
+
+/* Form Inputs */
+
+.tc_fieldset textarea, .tc_fieldset input[type="text"], .tc_fieldset input[type="password"], .tc_fieldset input[type="datetime"], .tc_fieldset input[type="datetime-local"], .tc_fieldset input[type="date"], .tc_fieldset input[type="month"], .tc_fieldset input[type="time"], .tc_fieldset input[type="week"], .tc_fieldset input[type="number"], .tc_fieldset input[type="email"], .tc_fieldset input[type="url"], .tc_fieldset input[type="search"], .tc_fieldset input[type="tel"], .tc_fieldset input[type="color"], .tc_fieldset .uneditable-input {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border linear .2s, box-shadow linear .2s;
+    -moz-transition: border linear .2s, box-shadow linear .2s;
+    -o-transition: border linear .2s, box-shadow linear .2s;
+    transition: border linear .2s, box-shadow linear .2s;
+}
+
+
+/* Table */
+
+.tc_table th, .tc_table td {
+    padding: 13px 5px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: middle;
+    border-top: 0px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+
+/* Icons */
+
+.tc_icon__arrow--left .icon-arrow-left {
+    padding-right: 10px;
+    color: #0797C1;
+}
+
+
+/* Tables */
+
+.tc_table [class^="icon-"], [class*=" icon-"] {
+    vertical-align: baseline;
+}
+
+
+/* Containers */
+
+.tc_panel .row-fluid {
+    /*margin-bottom: 0px;*/
+}
+
+.tc_row__margin {
+    margin-bottom: 15px;
+}
+
+.tc_row__margin [class*="span"], .tc_row__margin [class*="span"]:first-child {
+    margin-left: 0;
+}
+
+.tc_container {
+    width: 1100px;
+}
+
+.tc_container--blue {
+    background-color: #E7F5F9;
+}

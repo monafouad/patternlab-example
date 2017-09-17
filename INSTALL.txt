@@ -1,0 +1,20 @@
+INSTALL COMMANDS
+----------------
+git clone git@bitbucket.org:referup/talentclue_webdesign.git
+cd talentclue_webdesign
+wget https://github.com/pattern-lab/edition-php-twig-standard/releases/download/v2.2.1/twig-standard.zip
+unzip -n twig-standard.zip -x "twig-standard/source*" && mv twig-standard/* ./ && mv twig-standard/.* ./
+rm -Rf twig-standard*
+git checkout -- .gitignore
+php core/console --generate && php core/console --server --port 8066
+
+DESCRIPTION
+-----------
+1. Clone git repo git clone git@bitbucket.org:referup/talentclue_webdesign.git
+2. Download PatternLab twig standard edition, and extract in "talentclue_webdesign". Don't override existing files!
+3. Launch PatternLab: php core/console --generate && php core/console --server
+
+TODO: dockerize
+
+
+

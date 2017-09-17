@@ -1,0 +1,33 @@
+<div class="row-fluid tc_row__margin">
+
+	<div class="{{panel.class}}">
+		<div class="tc_toggle">
+		{% include "molecules-toggle" %}
+		</div>
+		<div class="row-fluid tc_row__margin">
+			<h2 class="tc_h2">{{ panel.title }}</h2>
+		</div>
+		<div class="row-fluid tc_row__margin">
+			<div class="span12 tc_panel__padding--intro">
+				<span class="{{panel.subtitleClass}}">{{ panel.subtitle }}</span>
+			</div>
+		</div>
+		<div class="row-fluid tc_row__margin">
+		{% include "atoms-hr" %}
+		</div>
+		<div class="row-fluid tc_row__margin">
+		{% for item in panelBlock %}
+			<div class="{{item.blockClass}}">
+				<div class="{{item.col1}}"><i class="{{ item.icon}}"></i></div>
+				<div class="{{item.col2}}">{{ item.content }}</div>
+			</div>
+		{% endfor %}
+		</div>
+		<div class="row-fluid tc_row__margin">
+			<div class="tc_btn__container--center">
+				<a href="#tc_modal" class="{{panel.buttonClass}}" data-toggle="modal">{{ panel.button }}</a>
+			</div>
+		</div>
+	</div>
+</div>
+

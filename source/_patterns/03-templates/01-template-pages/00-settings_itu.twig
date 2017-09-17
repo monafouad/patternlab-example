@@ -1,0 +1,21 @@
+{% extends "templates-span3-span9" %}
+{% block main %}
+		{% include "organisms-panel" %}
+		<div class="row-fluid tc_row__margin">
+			{% include "atoms-input-group-search" %}		 	
+		</div>
+		{% include "molecules-table-sm" %}
+		<div class="row-fluid tc_row__margin">
+			{% include "atoms-checkbox-group" %}		 	
+		</div>
+		<div class="row-fluid tc_row__margin">
+			{% include "atoms-h3" %}		 	
+			<div class="span4 tc_nomargin">
+				{% include "atoms-link-button" %}		 	
+			</div>
+			<div class="span8">
+				{% include "atoms-spans" %}		 	
+			</div>
+		</div>
+	{% include "templates-modal" %}
+{% endblock %}

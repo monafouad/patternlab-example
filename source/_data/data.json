@@ -1,0 +1,337 @@
+{
+    "toggle": {
+        "label": "Lorem",
+        "page-label": "default"
+    },
+    "steps": {
+        "first": "Lorem",
+        "second": "Lorem"
+    },
+    "hr": {
+        "class": "tc_seperator"
+    },
+    "panel": {
+        "title": "Lorem ipsum dolor sit amet",
+        "class": "tc_panel",
+        "button": "Lorem",
+        "subtitleClass":"tc_panel__title--sub",
+        "buttonClass":"tc_btn__primary"
+    },
+    "panelBlock": [
+        {
+            "blockClass": "span6 tc_panel__col",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy",
+            "col1": "span1",
+            "col2": "span11 tc_panel__item",
+            "icon": "icon-refresh tc_icon-md"
+        },
+        {
+            "blockClass": "span6 tc_panel__col",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy",
+            "col1": "span1",
+            "col2": "span11 tc_panel__item",
+            "icon": "icon-bell tc_icon-md"
+        }
+    ],
+    "table": [
+        {
+            "class": "tc_languageNav__link",
+            "colOne": "boo",
+            "colTwo": "boo",
+            "colThree": "boo",
+            "colFour": "icon-trash"
+        },
+        {
+            "class": "tc_languageNav__link",
+            "colOne": "boo",
+            "colTwo": "boo",
+            "colThree": "boo",
+            "colFour": "icon-trash"
+        }
+    ],
+    "tableHeaders": {
+        "title1": "Lorem Ipsum",
+        "title2": "Lorem Ipsum",
+        "title3": "Lorem Ipsum",
+        "title4": "Lorem Ipsum"
+    },
+    "tableworflow": {
+        "title1": "Title",
+        "title2": "Title",
+        "title3": "Title",
+        "title4": "Title",
+        "button": "Lorem",
+        "row1column1": "Lorem ipsum ",
+        "row1column2": "Lorem ipsum ",
+        "row1column3": "Lorem ipsum ",
+        "row1column4": "Lorem ipsum ",
+        "row1column5": "LO",
+        "row1column6": "Lorem ipsum ",
+        "row2column1": "Lorem ipsum ",
+        "row2column2": "Lorem ipsum ",
+        "row2column3": "Lorem ipsum ",
+        "row2column4": "Lorem ipsum ",
+        "row2column5": "LO",
+        "row2column6": "Lorem ipsum ",
+        "row3column1": "Lorem ipsum ",
+        "row3column2": "Lorem ipsum ",
+        "row3column3": "Lorem ipsum ",
+        "row3column4": "Lorem ipsum ",
+        "row3column5": "LO ",
+        "row3column6": "Lorem ipsum ",
+        "row4column1": "Lorem ipsum ",
+        "row4column2": "Lorem ipsum ",
+        "row4column3": "Lorem ipsum ",
+        "row4column4": "Lorem ipsum ",
+        "row4column5": "LO ",
+        "row4column6": "Lorem ipsum ",
+        "row5column1": "Lorem ipsum",
+        "row5column2": "Lorem ipsum ",
+        "row5column3": "Lorem ipsum ",
+        "row5column4": "Lorem ipsum ",
+        "row5column5": "LO",
+        "row5column6": "Lorem ipsum ",
+        "row6column1": "Lorem ipsum ",
+        "row6column2": "Lorem ipsum ",
+        "row6column3": "Lorem ipsum ",
+        "row6column4": "Lorem ipsum ",
+        "row6column5": "LO",
+        "row6column6": "Lorem ipsum ",
+        "row7column1": "Lorem ipsum ",
+        "row7column2": "Lorem ipsum ",
+        "row7column3": "Lorem ipsum ",
+        "row7column4": "Lorem ipsum ",
+        "row7column5": "LO",
+        "row7column6": "Lorem ipsum ",
+        "row8column1": "Lorem ipsum ",
+        "row8column2": "Lorem ipsum ",
+        "row8column3": "Lorem ipsum ",
+        "row8column4": "Lorem ipsum ",
+        "row8column5": "LO",
+        "row8column6": "Lorem ipsum ",
+        "row9column1": "Lorem ipsum ",
+        "row9column2": "Lorem ipsum ",
+        "row9column3": "Lorem ipsum ",
+        "row9column4": "Lorem ipsum ",
+        "row9column5": "LO",
+        "row9column6": "Lorem ipsum ",
+        "row10column1": "Lorem ipsum ",
+        "row10column2": "Lorem ipsum ",
+        "row10column3": "Lorem ipsum ",
+        "row10column4": "Lorem ipsum ",
+        "row10column5": "LO",
+        "row10column6": "Lorem ipsum ",
+        "row11column1": "Lorem ipsum ",
+        "row11column2": "Lorem ipsum ",
+        "row11column3": "Lorem ipsum ",
+        "row11column4": "Lorem ipsum ",
+        "row11column5": "LO",
+        "row11column6": "Lorem ipsum ",
+        "row3content3": "Lorem ipsum dolor",
+        "iconLinkClass": "tc_table__icons",
+        "cellClass": "tc_table__cell",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy"
+    },
+    "breadcrumb": {
+        "title": "Lorem ipsum",
+        "previous": "Lorem ipsum",
+        "current": "Lorem ipsum"
+    },
+    "breadcrumbNav": [
+        {
+            "class": "tc_languageNav__link",
+            "content": "Lorem ipsum"
+        },
+        {
+            "slash": "/"
+        },
+        {
+            "class": "tc_breadcrumbNav__current",
+            "content": "Lorem ipsum"
+        }
+    ],
+     "images": {
+        "src": "Deshabilitado",
+        "class": ""
+    },
+    "forms": {
+        "legend": "Legend",
+        "title": "Title",
+        "label1": "Label 1",
+        "label2": "Label 2",
+        "label3": "Label 3",
+        "label4": "Label 4",
+        "label5": "Label 5",
+        "label6": "Label 6",
+        "groupClass": "control-group"
+    },
+    "input": {
+        "placeholder": "Lorem ipsum",
+        "class": "tc_input__text"
+    },
+    "legend": {
+        "title": "Lorem ipsum",
+        "class": "tc_no__margin"
+    },
+    "span": {
+        "content": "Lorem ipsum"
+    },
+    "label": {
+        "content": "Lorem ipsum",
+        "class": "tc_label__bold"
+    },
+    "search": {
+        "title": "Lorem ipsum"
+    },
+    "checkboxset": {
+        "title": "Lorem ipsum",
+        "content": "Lorem ipsum"
+    },
+    "headings": {
+        "h3": "Lorem Ipsum",
+        "h2Class": "tc_h2",
+        "h2Title": "Heading h2"
+    },
+    "buttons": {
+        "primaryButton": "Primary button",
+        "primaryButtonIcon": "Primary button with arrow",
+        "primaryButtonClass": "tc_btn__primary",
+        "primaryButtonHover": "Primary button hover",
+        "primaryButtonHoverClass": "tc_btn__primary--hover",
+        "primaryButtonDisabled": "Primary button disabled",
+        "primaryButtonDisabledClass": "tc_btn__primary--disabled",
+        "primaryButtonXL": "Primary button Large",
+        "primaryButtonXLDisabledClass": "tc_btn__primary--xl-disabled",
+        "primaryButtonXLDisabled": "Primary button disabled",
+        "primaryButtonXLClass": "tc_btn__primary--xl",
+        "primaryButtonXLHover": "Primary button Large Hover",
+        "primaryButtonXLHoverClass": "tc_btn__primary--xl-hover",
+        "secondaryButton": "Secondary button",
+        "secondaryButtonClass": "tc_btn__secondary",
+        "secondaryButtonHover": "Secondary button Hover",
+        "secondaryButtonHoverClass": "tc_btn__secondary--hover",
+        "secondaryButtonDisabled": "Secondary button disabled",
+        "secondaryButtonDisabledClass": "tc_btn__secondary--disabled",
+        "disabledButton": "Disabled button",
+        "disabledButtonClass": "tc_btn__disabled",
+        "linkButton": "Link button",
+        "linkButtonIcon": "Link icon button",
+        "linkButtonClass": "tc_btn__link",
+        "linkButtonIconClass": "tc_btn__linkIcon",
+        "linkButtonIconClassIcon": "icon-trash tc_icon-xs",
+        "linkButtonHover": "Link button hover",
+        "linkButtonHoverClass": "tc_btn__link--hover",
+        "linkButtonDisabled": "Link button disabled",
+        "linkButtonDisabledClass": "tc_btn__link--disabled",
+        "linkButtonIconHover": "Link icon button hover",
+        "linkButtonIconHoverIcon": "icon-trash tc_icon-xs",
+        "linkButtonIconDisabled": "Link icon button disabled"
+    },
+    "icons": {
+        "arrowLeftLinkClass": "tc_icon__arrow--left",
+        "arrowLeft": "icon-arrow-left",
+        "arrowRight": "icon-arrow-right",
+        "arrowLeftText": "Lorem",
+        "bell": "icon-bell tc_icon-md",
+        "time": "icon-time tc_icon-md",
+        "exclamation": "icon-exclamation-sign tc_icon-md",
+        "cloudDownload": "icon-cloud-download tc_icon-xs",
+        "edit": "icon-edit tc_icon-xs",
+        "trash": "icon-trash tc_icon-xs",
+        "list": "icon-list-alt tc_icon-xs",
+        "tag": "icon-tag tc_icon-xs",
+        "search": "icon-search tc_placeholder__icon tc_icon-sm"
+    },
+    "cards": [
+        {
+            "class": "tc_card span6",
+            "title": "Lorem Ipsum 1",
+            "bgcolor": "tc_card__blue",
+            "img": "../../images/sample_130x90.png",
+            "buttonText": "Lorem",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+        },
+        {
+            "class": "tc_card span6 pull-right",
+            "title": "Lorem Ipsum 2",
+            "bgcolor": "tc_card__blue",
+            "img": "../../images/sample_130x90.png",
+            "buttonText": "Lorem",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+        },
+        {
+            "class": "tc_card span6",
+            "title": "Lorem Ipsum 3",
+            "bgcolor": "tc_card__blue",
+            "img": "../../images/sample_130x90.png",
+            "buttonText": "Lorem",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+        },
+        {
+            "class": "tc_card span6 pull-right",
+            "title": "Lorem Ipsum 4",
+            "bgcolor": "tc_card__blue",
+            "img": "../../images/sample_130x90.png",
+            "buttonText": "Lorem",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+        },
+        {
+            "class": "tc_card span6",
+            "title": "Lorem Ipsum 5",
+            "bgcolor": "tc_card__blue",
+            "img": "../../images/sample_130x90.png",
+            "buttonText": "Lorem",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+        },
+        {
+            "class": "tc_card span6 pull-right",
+            "title": "Lorem Ipsum 6",
+            "bgcolor": "tc_card__blue",
+            "img": "../../images/sample_130x90.png",
+            "buttonText": "Lorem",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+        },
+        {
+            "class": "tc_card span6",
+            "title": "Lorem Ipsum 7",
+            "bgcolor": "tc_card__blue",
+            "img": "../../images/sample_130x90.png",
+            "buttonText": "Lorem",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+        },
+        {
+            "class": "tc_card span6 pull-right",
+            "title": "Lorem Ipsum 8",
+            "bgcolor": "tc_card__blue",
+            "img": "../../images/sample_130x90.png",
+            "buttonText": "Lorem",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+        }
+    ],
+    "languageNav": [
+        {
+            "class": "tc_languageNav__link",
+            "content": "en"
+        },
+        {
+            "class": "tc_languageNav__link--selected",
+            "content": "es"
+        },
+        {
+            "class": "tc_languageNav__link",
+            "content": "mx"
+        },
+        {
+            "class": "tc_languageNav__link",
+            "content": "co"
+        },
+        {
+            "class": "tc_languageNav__link",
+            "content": "cl"
+        },
+        {
+            "class": "tc_languageNav__solid",
+            "content": "?"
+        }
+    ]
+}

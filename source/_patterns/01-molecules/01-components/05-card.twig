@@ -1,0 +1,14 @@
+<div class="{{card.class}}">
+	{% include "atoms-h2-card" %}		 	
+	<div class="tc_card__block">
+		<div class="span4">
+			{% include "atoms-img-130x90" %}
+		</span>
+		</div>
+		<div class="tc_card__content span8 pull-right">{{ card.content}}</div>
+		<div class="tc_card__button">	
+		<a href="#" class="{{buttons.primaryButtonClass}}">{{ card.buttonText }}</a>
+		</div>
+	</div>
+</div>
+
