@@ -12,6 +12,4 @@ rm -Rf twig-standard*
 
 DESCRIPTION
 -----------
-1. Clone git repo git clone https://github.com/monafouad/patternlab-example.git
-2. Download PatternLab twig standard edition, and extract in "patternlab-example". Don't override existing files!
-3. Launch PatternLab: php core/console --generate && php core/console --server
+Pattern Lab example created for modular CSS
